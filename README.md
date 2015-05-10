@@ -8,6 +8,3 @@ Provides an Android Activity (page) where user can click a button and list out t
   - The user can swipe between images and a Tinder like swiping effect is given for the images.
   
   
-# APK
-
-![](https://github.com/punithshetty123/Bootstrap_ZillowSearch/blob/master/images/Zillow.PNG)
