@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwipeReddit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reddit_result">Reddit Top 10 Images</string>
+    <string name="clickbutton">Click on the Image Below</string>
+
+
+
+</resources>
